@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World with OpenShift!</h2>
+<h2>Who <s>really</s> cares ...</h2>
 </body>
 </html>
